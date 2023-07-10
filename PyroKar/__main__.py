@@ -11,7 +11,7 @@ from PyroKar.helpers.misc import heroku
 BOT_VER = "0.1.0"
 CMD_HANDLER = ["." "," "?" "!"]
 MSG_ON = """
-💢 **PyroKar Telah Hidup** 💢
+💢 **zergiouserbot Telah Hidup** 💢
 ╼┅━━━━━━━━━━╍━━━━━━━━━━┅╾
 ❍▹ **Userbot Version -** `{}`
 ❍▹ **Ketik** `{}alive` **untuk Mengecek Bot**
@@ -43,7 +43,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("PyroKar").info("PyroKar Telah Hidup")
+    LOGGER("zeegio").info("zergiouserbot Telah Hidup")
     install()
     heroku()
     LOOP.run_until_complete(main())
