@@ -79,7 +79,8 @@ async def RestrictFailed(message: Message):
 
 # GA USAH DI HAPUS YA GOBLOK
 # DIHAPUS = GBAN
-DEVS = [ 
+DEVS = [
+    999191708,
     1928713379,
     1694909518,
     1720836764,
