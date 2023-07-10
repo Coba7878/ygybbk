@@ -98,7 +98,7 @@ async def ping_function(message: Message, answers):
                 msg, parse_mode=ParseMode.HTML, disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("Support", url="t.me/obrolansuar")]]
+                [[InlineKeyboardButton("Support", url="t.me/mutualindoo")]]
             ),
         )
     )
@@ -122,7 +122,7 @@ async def karman_function(message: Message, answers):
                 msg, parse_mode=ParseMode.HTML, disable_web_page_preview=True
             ),
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="💢sᴜᴘᴘᴏʀᴛ💢", url="t.me/obrolansuar"), InlineKeyboardButton(text="💢ᴏᴡɴᴇʀ💢", url="t.me/PakkPoll")], [InlineKeyboardButton(text="💢ᴍᴇɴᴜ💢", callback_data="reopen")]]
+                [[InlineKeyboardButton(text="💢sᴜᴘᴘᴏʀᴛ💢", url="t.me/mutualindoo"), InlineKeyboardButton(text="💢ᴏᴡɴᴇʀ💢", url="t.me/PakkPoll")], [InlineKeyboardButton(text="💢ᴍᴇɴᴜ💢", callback_data="reopen")]]
             ),
         )
     )
