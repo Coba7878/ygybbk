@@ -10,15 +10,13 @@
 class First:
     ALIVE = "`Still Working On Fire 👑`"
     REPO = """
-**Hey**, __I am using__ 👑 **PyroKar-Userbot** 👑
+**Hey**, __I am using__ ⚜️ **ZergioUserbot** ⚜️
 
 ✣ **Userbot Version :** `{}`
-✣ **Group Support :** [Karman Support Group](t.me/obrolansuar)
-✣ **Channel Kar :** [Story Karman](t.me/Karc0de)
-✣ **Owner Repo :** [Arman](t.me/PakkPoll)
-✣ **Repo :** [PyroKar-Userbot](https://github.com/ArmanGG01/PyroKar-Userbot)
-✣ **KANGER :** [</hdiiofficial>](t.me/hdiiofficial)
-
+✣ **Group Support :** [Support Group](t.me/mutualindoo)
+✣ **Channel :** [Channel](t.me/yagitudahpokonya)
+✣ **Owner Repo :** [zergio](t.me/ZERMUTUAL)
+✣ **Repo :** [zergiouserbot](https://github.com/zergiorvdr/zergiouserbot)
 
 Powered by [PyroMan-Userbot](https://github.com/mrismanaziz/pyroman-userbot)"""
     CREATOR = 'I was created by my master <a href="https://github.com/ArmanGG01/PyroKar-Userbot">Man</a> on a rainy day.'
