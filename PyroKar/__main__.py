@@ -43,7 +43,7 @@ async def main():
 
 
 if __name__ == "__main__":
-    LOGGER("zeegio").info("zergiouserbot Telah Hidup")
+    LOGGER("zergio").info("zergiouserbot Telah Hidup")
     install()
     heroku()
     LOOP.run_until_complete(main())
