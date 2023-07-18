@@ -15,7 +15,7 @@ class First:
 ✣ **Userbot Version :** `{}`
 ✣ **Group Support :** [Support Group](t.me/MUTUALAN_CARI_TEMAN_VIRTUAL)
 ✣ **Channel :** [Channel](t.me/yagitudahpokonya)
-✣ **Owner Repo :** [zergio](t.me/ZERMUTUAL)
+✣ **Owner Repo :** [zergio](t.me/ZERGIIORVDRA)
 ✣ **Repo :** [zergiouserbot](https://github.com/zergiorvdr/zergiouserbot)
 
 Powered by [PyroMan-Userbot](https://github.com/mrismanaziz/pyroman-userbot)"""
