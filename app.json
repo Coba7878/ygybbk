@@ -1,6 +1,6 @@
 {
   "name": "ZerPyro-Userbot",
-  "description": "[ZerPyro-Userbot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.  Powered by PyroKar-Userbot.",
+  "description": "[ZerPyro-Userbot] adalah userbot Telegram modular yang berjalan di Python3 dengan Library Pyrogram.  Powered by ZerPyro-Userbot.",
   "stack": "heroku-22",
   "env": {
     "API_ID": {
