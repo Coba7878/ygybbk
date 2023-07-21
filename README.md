@@ -28,8 +28,8 @@ Ketika anda sudah memasang userbot ini, berarti anda sudah siap dengan resikonya
 
 ## 🏷 Support
 
-- Follow Channel [@zerrcode](https://t.me/zerrcode) untuk info Update bot 
-- Gabung Group [@ZERSUPPORT_BOT_TELGERAM](https://t.me/ZERSUPPORT_BOT_TELGERAM) untuk diskusi, pelaporan bug, dan bantuan tentang ZerPyro-Userbot.
+- Follow Channel .[zerrcode](https://t.me/zerrcode) untuk info Update bot 
+- Gabung Group [ZERSUPPORT_BOT_TELGERAM](https://t.me/ZERSUPPORT_BOT_TELGERAM) untuk diskusi, pelaporan bug, dan bantuan tentang ZerPyro-Userbot.
 
 ## 👨🏻‍💻 Credits
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
